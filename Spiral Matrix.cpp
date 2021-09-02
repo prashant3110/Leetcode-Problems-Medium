@@ -56,7 +56,7 @@ public:
             
           dia=(dia+1)%4;  
         }
-       return ans;
+       return ans; 
     }
 };
 
