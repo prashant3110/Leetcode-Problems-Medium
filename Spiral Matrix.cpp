@@ -54,7 +54,7 @@ public:
                 left++;
             }
             
-          dia=(dia+1)%4;  
+          dia=(dia+1)%4;   
         }
        return ans; 
     }
