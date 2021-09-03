@@ -43,7 +43,7 @@ public:
                     ans.push_back(matrix[down][i]);
                 }
                 down--;
-            }
+            } 
             
             if(dia==3)
             {
